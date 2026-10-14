@@ -113,7 +113,3 @@ with tab2:
             )
         else:
             st.info("Nessuna analisi presente nel database.")
-📌 PUNTO 4: Configurazione Secrets in Codespaces e Test Finale
-Nella cartella radice del tuo progetto in Codespaces, crea la cartella nascosta .streamlit e all'interno il file secrets.toml:
-
-Bash
